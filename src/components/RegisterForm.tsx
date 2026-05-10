@@ -203,7 +203,7 @@ export default function RegisterForm() {
       `Resume URL: ${resume_url || 'Not provided'}`,
     ].join('\n');
 
-    return `mailto:stakdindia@gmail.com?subject=${encodeURIComponent(
+    return `mailto:chandrakumar3897@gmail.com?subject=${encodeURIComponent(
       'New HireWay Registration',
     )}&body=${encodeURIComponent(body)}`;
   };
@@ -243,7 +243,7 @@ Submitted on: ${new Date().toLocaleString()}
       message: formattedMessage,
     };
 
-    const response = await fetch('https://formsubmit.co/ajax/stakdindia@gmail.com', {
+    const response = await fetch('https://formsubmit.co/ajax/chandrakumar3897@gmail.com', {
       method: 'POST',
       headers: {
         'Content-Type': 'application/json',
@@ -338,7 +338,7 @@ Submitted on: ${new Date().toLocaleString()}
         </div>
         <h3 className="text-2xl font-bold text-gray-900 mb-3">You're Registered!</h3>
         <p className="text-gray-500 max-w-md">
-          Your registration is complete and the details have been sent to stakdindia@gmail.com.
+          Your registration is complete and the details have been sent to chandrakumar3897@gmail.com.
         </p>
         <button
           onClick={() => setSuccess(false)}

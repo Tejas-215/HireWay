@@ -2,7 +2,7 @@ import { CheckCircle, Mail, Shield, TrendingUp } from 'lucide-react';
 import RegisterForm from './RegisterForm';
 
 const highlights = [
-  { icon: Mail, text: 'Or send your resume to', link: 'stakdindia@gmail.com', color: 'text-blue-300' },
+  { icon: Mail, text: 'Or send your resume to', link: 'chandrakumar3897@gmail.com', color: 'text-blue-300' },
   { icon: CheckCircle, text: '100% Free consultation — no strings attached', color: 'text-green-400' },
   { icon: Shield, text: 'Your information is 100% confidential', color: 'text-amber-400' },
   { icon: TrendingUp, text: 'Average 50% salary hike for our candidates', color: 'text-green-400' },

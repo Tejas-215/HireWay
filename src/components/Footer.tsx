@@ -20,8 +20,8 @@ export default function Footer() {
               We connect experienced professionals with their dream jobs. Apply on your behalf, prep you for interviews, and celebrate when you land that offer letter.
             </p>
             <p className="text-xs mt-4">
-              <a href="mailto:stakdindia@gmail.com" className="text-blue-400 hover:underline">
-                stakdindia@gmail.com
+              <a href="mailto:chandrakumar3897@gmail.com" className="text-blue-400 hover:underline">
+                chandrakumar3897@gmail.com
               </a>
             </p>
           </div>

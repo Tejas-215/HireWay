@@ -4,17 +4,17 @@ const items = [
   {
     icon: Mail,
     title: 'Email Us',
-    value: 'stakdindia@gmail.com',
+    value: 'chandrakumar3897@gmail.com',
     sub: "We'll respond within 24 hours",
-    link: 'mailto:stakdindia@gmail.com',
+    link: 'mailto:chandrakumar3897@gmail.com',
     color: 'bg-blue-50 text-blue-600',
   },
   {
     icon: MessageCircle,
     title: 'WhatsApp',
-    value: '+91 98765 43210',
+    value: '+91 8095119848',
     sub: 'Quick responses on WhatsApp',
-    link: 'https://wa.me/919876543210',
+    link: 'https://wa.me/918095119848',
     color: 'bg-green-50 text-green-600',
   },
   {
